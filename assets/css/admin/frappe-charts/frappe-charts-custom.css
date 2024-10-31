@@ -1,0 +1,14 @@
+.frappe-chart .x.axis .line-vertical,
+.frappe-chart .x.axis text {
+  display: none;
+}
+.frappe-chart .y.axis .line-horizontal,
+.frappe-chart .y.axis text {
+  display: none;
+}
+#om-campaign-chart .frappe-chart.chart {
+  margin-left: -3rem;
+}
+.graph-svg-tip {
+  z-index: 120002;
+}

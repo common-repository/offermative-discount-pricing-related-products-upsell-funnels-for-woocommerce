@@ -1,0 +1,1164 @@
+# Copyright (C) 2022 Offermative
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Offermative: discount pricing, related products, upsell funnels for WooCommerce 5.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/offermative-discount-pricing-related-products-upsell-funnels-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-11T11:28:28+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: offermative-discount-pricing-related-products-upsell-funnels-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Offermative: discount pricing, related products, upsell funnels for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Automate design, discounts, targeting, copywriting for product recommendation, offers. AI-powered promotions & discount plugin for WooCommerce stores."
+msgstr ""
+
+#. Author of the plugin
+#: includes/admin/class-om-admin-dashboard.php:133
+msgid "Offermative"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.offermative.com/"
+msgstr ""
+
+#: includes/admin/class-om-admin-dashboard.php:133
+msgid "Offermative Dashboard"
+msgstr ""
+
+#: includes/admin/class-om-admin-dashboard.php:1017
+msgid "Unable to enable campaigns. Database error."
+msgstr ""
+
+#: includes/admin/class-om-admin-dashboard.php:1071
+msgid "Unable to delete campaigns. Database error."
+msgstr ""
+
+#: includes/admin/class-om-admin-dashboard.php:1130
+msgid "Unable to extend campaigns. Database error."
+msgstr ""
+
+#: includes/admin/class-om-admin-dashboard.php:1185
+msgid "Unable to insert campaigns. Database error."
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:90
+msgid "Quick Feedback for Offermative plugin"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:91
+msgid "Take a moment to let us know why you are deactivating"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:92
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:93
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:94
+msgid "Yes - Deactivate"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:95
+msgid "Submit a reason to deactivate"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:96
+msgid "Please select an option"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:131
+msgid "The plugin is not working / not compatible with another plugin/my theme."
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:133
+msgid "Kindly share what did not work for you / conflicting with which plugin so we can fix it..."
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:137
+msgid "I don't want to sign up for a paid account"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:139
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:151
+msgid "What specific feature you need?"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:143
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:145
+msgid "What did you wanted to do in short period?"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:149
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:155
+msgid "I found another plugin for my needs"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:157
+msgid "What is that plugin name?"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:161
+msgid "It is a temporary deactivation. I am just debugging an issue."
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:167
+msgid "Other"
+msgstr ""
+
+#: includes/admin/deactivation-survey/class-sa-om-deactivation.php:169
+msgid "Please mention..."
+msgstr ""
+
+#: includes/class-sa-offermative.php:115
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/frontend/class-om-ajax-controller.php:748
+msgid "Please add some products to the cart to see the discount."
+msgstr ""
+
+#: includes/frontend/class-om-ajax-controller.php:766
+msgid "Coupon code applied successfully."
+msgstr ""
+
+#: includes/frontend/class-om-ajax-controller.php:861
+msgid "Add some products"
+msgstr ""
+
+#: includes/frontend/class-om-ajax-controller.php:862
+msgid "from"
+msgstr ""
+
+#: includes/frontend/class-om-ajax-controller.php:886
+msgid "to see the discount"
+msgstr ""
+
+#: offermative.php:79
+msgid "Offermative needs WooCommerce."
+msgstr ""
+
+#: offermative.php:81
+msgid "WooCommerce"
+msgstr ""
+
+#: offermative.php:82
+msgid "must be active for Offermative to work"
+msgstr ""
+
+#: offermative.php:83
+msgid "Please install & activate WooCommerce."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - failed notification"
+msgid "Password cannot be blank"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - failed notification"
+msgid "Please accept the terms of use & privacy policy"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - heading"
+msgid "Offermative"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - heading"
+msgid "Settings"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - button"
+msgid "Save & Next"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - button"
+msgid "Save"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid "You need an Offermative account to use this plugin on your site."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid "Login or signup for a paid plan."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account heading"
+msgid "%s your account"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account heading"
+msgid "Create"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account heading"
+msgid "Manage"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Name"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "email"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Password"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - terms and privacy-policy link"
+msgid "I agree to the"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "terms of use"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "and"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "privacy policy"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - button"
+msgid "Sign up"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - button"
+msgid "Log in & Get started"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account description"
+msgid "%s have an account?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account description"
+msgid "Already"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - account description"
+msgid "Don't"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "Login here"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "Sign up for a plan"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding heading"
+msgid "1-minute setup, never ending sales!"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid "Offermative automatically generates offers, shows them to your customers and tracks performance."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid "Let's set up the basics..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding heading"
+msgid "Discount and restrictions"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding discount - description"
+msgid "I can give maximum"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding discount - description"
+msgid "discount."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding discount - description"
+msgid "But it should not exceed"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding discount - description"
+msgid "Never discount these products:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for a product…"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding discount - description"
+msgid "Never discount products in these categories:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for a category…"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - campaign copytext - heading"
+msgid "Automatic campaign copywriting"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - campaign copytext - description"
+msgid "Offermative writes headlines and other copy text for you. You can change texts for every campaign later."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - campaign copytext - description"
+msgid "What do your customers want? What are their burning desires? Why are they coming to your store?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "achieve goals"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - copytext label"
+msgid "1. To"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "avoid mistakes"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - copytext label"
+msgid "2. To"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - customer category"
+msgid "One common word to categorize your customers:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "e.g. users, customers, parents, marketers, students..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section heading"
+msgid "Generate campaign messages in:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for a language"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section heading"
+msgid "Sample headlines"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section description"
+msgid "Attention %s: %s - now!"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section details"
+msgid "customers"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section details"
+msgid "look good"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section description"
+msgid "Want to %s and save big?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section description"
+msgid "get quick results"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section heading"
+msgid "About you"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - section description"
+msgid "My name is"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "John"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid ". Create my Offermative account using:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - onboarding description"
+msgid ", and you can email me at"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "john@domain.com"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - terms and privacy-policy - checkbox"
+msgid "I agree to the"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "settings panel - link"
+msgid "Back to WordPress Dashboard"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - heading"
+msgid "Generate Onsite Offer Campaigns"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - button"
+msgid "Generate"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "What kind of offers would you like to generate today?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - offer types list"
+msgid "Let Offermative decide"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - restrictions"
+msgid "Do you want to create offers only for specific products / categories?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - restrictions - product"
+msgid "Generate offers for these products:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - restrictions - product category"
+msgid "Generate offers for these product categories:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - heading"
+msgid "Making offers live"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "Click on the “Generate” button at the top. Offermative will generate a handful of onsite offer campaigns for you."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "You will see a preview of each campaign. You can edit rules, offered products, update discount type and amount, copy text and other details, set date / time for the offer to go live."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "Use back-next arrows at the top to navigate and review the generated campaigns."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "Tick the \"Approve\" box for each campaign you would like to run. If you do not like a campaign, do not approve it. Move to the other campaign."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "Click on \"Publish Campaigns\" once you are done."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "All approved campaigns will go live on the date / time set for each campaign. You can later modify the date / time for each approved campaign."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "You can manage all these campaigns from the Offermative dashboard."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "generate campaigns settings panel - description"
+msgid "In case you don't like any campaigns, you can always come back and generate more campaigns."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "navigation bar - heading"
+msgid "Offermative"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "navigation bar - upgrade notification"
+msgid "Upgrade to latest version of Offermative to continue working."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "navigation bar - button"
+msgid "Generate Offer Campaigns"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "%s of Total Revenue"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "View%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "Order%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "Item%s Sold"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard kpi's"
+msgid "Conversion Rate"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - warning notification"
+msgid "You can have max %d campaign%s active"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - warning notification"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - warning notification"
+msgid "Please select atleast 1 campaign"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaingn list - heading"
+msgid "Onsite Offer Campaigns"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Pause"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Resume"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Extend"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Batch Actions"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Show All"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Show Live Only"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Show Paused Only"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - button"
+msgid "Show Expired Only"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - status"
+msgid "Scheduled"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - status"
+msgid "Active"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - status"
+msgid "Completed"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - status"
+msgid "Paused"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - kpi"
+msgid "Order%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - kpi"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - kpi"
+msgid "Revenue"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - load more"
+msgid "Load More"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - description"
+msgid "No more data to load"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign list - heading"
+msgid "Recent Orders"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Enter a name for this campaign"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - header"
+msgid "Approve"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - warning notification"
+msgid "You can have max %d campaign%s active"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - warning notification"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - button"
+msgid "Publish %d campaign%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - button"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - warning notification"
+msgid "Are you sure you want to permanently delete this campaign?"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - button"
+msgid "Save"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - warning notification"
+msgid "You have unsaved changes that would be lost."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - recent orders - heading"
+msgid "Recent Orders"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - recent orders - link"
+msgid "more"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - top products - heading"
+msgid "Top Sellers"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - top products - description"
+msgid "coming soon"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - top products - link"
+msgid "more"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - warning message"
+msgid "Campaign KPI blank"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "%s of Total Revenue"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "View%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "Order%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "Item%s Sold"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - kpi"
+msgid "Conversion Rate"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "Discount"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "Nudge"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for product category"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for product"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "Discount Type"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "For"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "Recommended Products"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for a %s ..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "Not"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "On Pages"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for a page…"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "from"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign offer"
+msgid "to"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for product category..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Search for product..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Select rule"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "Enter value"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "This is a"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "required"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "group and cannot be modified."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "%s is a \"pass\" when"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "It"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "This group"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - condition"
+msgid "all"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - condition"
+msgid "at least one"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - rule group - description"
+msgid "of the following conditions are true."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - button"
+msgid "Add a condition"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - button"
+msgid "Add another group"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - button"
+msgid "Remove this group"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - heading"
+msgid "Rules"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - button"
+msgid "Add rule group"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - description"
+msgid "When %s condition groups pass"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - rule condition"
+msgid "all"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign rules - rule condition"
+msgid "at least one"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - warning notification"
+msgid "Nothing to update. Please make your changes first."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - heading"
+msgid "Text"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Before Headline"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "placeholder"
+msgid "e.g. author, parent, marketer, student..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Headline"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "After Headline"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Body"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Call to Action - Cart"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Call to Action - Info"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - details"
+msgid "Call to Action - Secondary"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - heading"
+msgid "Messages to change"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - message ids"
+msgid "All"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message edit - button"
+msgid "Update text"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - message preview - warning message"
+msgid "Message KPI blank"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - product recommendation - dummy product"
+msgid "Recommended Product"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - product recommendation - dummy product description"
+msgid "Description of the recommended product."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - product recommendation - dummy product attribute label"
+msgid "Attribute"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - product recommendation - dummy product variations"
+msgid "Option 1"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - dummy cart product"
+msgid "Product"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - dummy product attribute label"
+msgid "Attribute"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - dummy product variations"
+msgid "Option 1"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - heading"
+msgid "Messages"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "View%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "Order%s"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "Item%s Sold"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "Revenue"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - campaign messages - kpi"
+msgid "Conversion"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "campaign details panel - generating campaigns - loading message"
+msgid "Generating Campaigns..."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "button"
+msgid "Ok"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "button"
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard - warning message"
+msgid "Dashboard data blank"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard - description"
+msgid "Important:"
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard - description"
+msgid "Upgrade to latest version of Offermative to continue working."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard - description"
+msgid "No campaigns yet."
+msgstr ""
+
+#: assets/js/admin/admin.js:1
+msgctxt "dashboard - description"
+msgid "Go ahead, click that \"Generate Campaigns\" button in the top bar to create your first campaign."
+msgstr ""
